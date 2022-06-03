@@ -11,7 +11,7 @@
     rel="stylesheet">
   <link rel="stylesheet" href="style.css">
   <title>Animal - PetCare</title>
-</head>
+</head><!-- comentario  -->
 
 <body>
   <main>
