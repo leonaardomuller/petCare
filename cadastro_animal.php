@@ -11,12 +11,13 @@
     rel="stylesheet">
   <link rel="stylesheet" href="style.css">
   <title>Animal - PetCare</title>
-</head><!-- comentario  -->
+</head>
 
 <body>
   <main>
     <div id="container">
-      <form id="cadastro" class="cadastro" name="cadastro" method="post" action="salvar_animal.php">
+      <form id="cadastro" class="cadastro" name="cadastro" method="post" action="salvar_animal.php"
+        enctype="multipart/form-data">
         <!-- <fieldset>
           <h2>Doador</h2>
           <section class="two-box">
