@@ -1,7 +1,7 @@
 ﻿<?php
 
 //recebendo todos os dados do formulario de cadastro pelo metodo POST
-$specie		= $_POST["specie"];
+$specie			= $_POST["specie"];
 $gender		    = $_POST["gender"];
 $size		 	= $_POST["size"];
 $age		 	= $_POST["age"];
