@@ -1,6 +1,7 @@
 ## git add .
 ## git commit -m "alteracao lance"
-## git push origin main
+## git push origin main (enviar)
+## git pull (baixar)
 
 ## upload de arquivos PHP 
 
