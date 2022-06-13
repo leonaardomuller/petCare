@@ -161,8 +161,6 @@ input[type="radio"] {
 .box {
   display: flex;
   flex-direction: column;
-
-  /* padding: 0 16px 8px 16px; */
 }
 
 .box:last-child {
@@ -233,5 +231,15 @@ input[type="radio"] {
     display: flex;
     flex: 1;
     overflow: hidden;
+  }
+}
+
+@media (max-width: 320px) {
+  .box:last-child {
+    margin: 0;
+  }
+
+  #button-reset {
+    margin: 0 0 8px 0;
   }
 }
